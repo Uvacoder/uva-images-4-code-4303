@@ -329,7 +329,7 @@
             <BaseButton
               is="a"
               class="px-4 w-full border border-slate-700 text-slate-600 hover:border-slate-600/40 group"
-              href="https://github.com/Idered/chalk.ist"
+              href="https://github.com/uvacoder/uva-image-4-code-4303"
               target="_blank"
             >
               <IconGithub width="16" class="group-hover:scale-110 transition-transform group-hover:rotate-6" />
@@ -348,10 +348,10 @@
             <div class="text-xs hidden sm:block mt-2">
               <span class="opacity-75">Created by</span>
               <a
-                href="https://twitter.com/Idered"
+                href="https://twitter.com/VaLandscapes"
                 class="hover:text-white transition outline-none font-medium focus:text-white"
               >
-                Kasper Mikiewicz
+                uvacoder
               </a>
             </div>
           </div>
